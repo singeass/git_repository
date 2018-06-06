@@ -1,2 +1,3 @@
 Studying git!
 add additional information.
+more information...
